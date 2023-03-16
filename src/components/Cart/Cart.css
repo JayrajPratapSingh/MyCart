@@ -1,0 +1,13 @@
+.summary{
+    width: 35%;
+   text-align: center;
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   padding: 2vh;
+}
+.proceed-btn{
+    height: 5vh;
+    color: aliceblue;
+}
